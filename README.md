@@ -1,2 +1,15 @@
-# vacancies_parser_new
-Парсинг вакансий по маркетингу с дипсиком
+# Vacancy Parser Bot
+
+Telegram-бот для поиска вакансий из каналов:
+- @vacanciesbest
+- @pstmarketing
+- @yojob
+
+## Команды
+- `/start` — приветствие
+- `/search <запрос>` — поиск вакансий
+
+## Примеры
+- `/search маркетолог`
+- `/search SMM`
+- `/search контент-менеджер`
